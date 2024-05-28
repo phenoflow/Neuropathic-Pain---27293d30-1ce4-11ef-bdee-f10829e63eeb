@@ -1,0 +1,120 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/neuropathic-pain-singlelevel---primary.py
+inputModule3:
+  class: File
+  path: python/neuropathy-neuropathic-pain---primary.py
+inputModule4:
+  class: File
+  path: python/neuropathic-pain-prolapse---primary.py
+inputModule5:
+  class: File
+  path: python/arthropathy-neuropathic-pain---primary.py
+inputModule6:
+  class: File
+  path: python/xpolyneuropathy-neuropathic-pain---primary.py
+inputModule7:
+  class: File
+  path: python/neuropathic-pain---primary.py
+inputModule8:
+  class: File
+  path: python/neuropathic-pain-joint---primary.py
+inputModule9:
+  class: File
+  path: python/neuropathic-pain-inflammatory---primary.py
+inputModule10:
+  class: File
+  path: python/neuropathic-pain-neuralgia---primary.py
+inputModule11:
+  class: File
+  path: python/mononeuropathy-neuropathic-pain---primary.py
+inputModule12:
+  class: File
+  path: python/complex-neuropathic-pain---primary.py
+inputModule13:
+  class: File
+  path: python/vascular-neuropathic-pain---primary.py
+inputModule14:
+  class: File
+  path: python/neuropathic-pain-lumbar---primary.py
+inputModule15:
+  class: File
+  path: python/internal-neuropathic-pain---primary.py
+inputModule16:
+  class: File
+  path: python/postherpetic-neuropathic-pain---primary.py
+inputModule17:
+  class: File
+  path: python/cervical-neuropathic-pain---primary.py
+inputModule18:
+  class: File
+  path: python/neuropathic-pain-unspecified---primary.py
+inputModule19:
+  class: File
+  path: python/neuropathic-pain-reflex---primary.py
+inputModule20:
+  class: File
+  path: python/trigeminal-neuropathic-pain---primary.py
+inputModule21:
+  class: File
+  path: python/neuropathic-pain-xother---primary.py
+inputModule22:
+  class: File
+  path: python/acute-neuropathic-pain---primary.py
+inputModule23:
+  class: File
+  path: python/neuropathic-pain-radiculitis---primary.py
+inputModule24:
+  class: File
+  path: python/diabetic-neuropathic-pain---primary.py
+inputModule25:
+  class: File
+  path: python/familial-neuropathic-pain---primary.py
+inputModule26:
+  class: File
+  path: python/neuropathic-pain-noninsulin---primary.py
+inputModule27:
+  class: File
+  path: python/neuropathic-pain-dystrophy---primary.py
+inputModule28:
+  class: File
+  path: python/neuropathic-pain-multiplelevel---primary.py
+inputModule29:
+  class: File
+  path: python/neuropathic-pain-mumps---primary.py
+inputModule30:
+  class: File
+  path: python/metabolic-neuropathic-pain---primary.py
+inputModule31:
+  class: File
+  path: python/neuropathic-pain-ulcer---primary.py
+inputModule32:
+  class: File
+  path: python/thoracic-neuropathic-pain---primary.py
+inputModule33:
+  class: File
+  path: python/neuropathic-pain-sciatica---primary.py
+inputModule34:
+  class: File
+  path: python/amyloid-neuropathic-pain---primary.py
+inputModule35:
+  class: File
+  path: python/chronic-neuropathic-pain---primary.py
+inputModule36:
+  class: File
+  path: python/neuropathic-pain-twolevel---primary.py
+inputModule37:
+  class: File
+  path: python/sympathetic-neuropathic-pain---primary.py
+inputModule38:
+  class: File
+  path: python/lumbosacral-neuropathic-pain---primary.py
+inputModule39:
+  class: File
+  path: python/output-cases.py
